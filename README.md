@@ -6,7 +6,7 @@
         align="right"
         alt="coding"
       width="400"
-        src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"
+        src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
       />
 # 💫 About Me:
 👨‍💻 All of my Details are available at https://himesh-iddamalgoda.netlify.app/<br><br>💬 Ask me about HTML, CSS, JavaScript, React, Node<br><br>📫 How to reach me himeshIddamalgoda@gmail.com<br>
